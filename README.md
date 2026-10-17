@@ -65,7 +65,9 @@ gh skill install lulong-22/novel-writer-skill novel-writer
 
 | 大纲生成 | 章节生成 | 合规质检报告 |
 | ---- | ---- | ---- |
-| `![占位：大纲生成效果](docs/images/outline.png)` | `![占位：章节生成效果](docs/images/chapter.png)` | `![占位：质检报告](docs/images/quality-report.png)` |
+| `[占位图 outline.png](docs/images/outline.png)` | `[占位图 chapter.png](docs/images/chapter.png)` | `[占位图 quality-report.png](docs/images/quality-report.png)` |
+
+> 📌 说明：以上三张为演示**占位图**，正式上架前请替换为真实使用截图（放入 `docs/images/` 目录）。目录说明见 [docs/images/README.md](docs/images/README.md)。
 
 ---
 
